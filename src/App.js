@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+
+          <p> 1. juna manuel 23 masculito  x A</p>
         </a>
       </header>
     </div>
